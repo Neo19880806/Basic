@@ -1,5 +1,5 @@
 {
-    "name": "smart/basicmodule",
+    "name": "smartjac/basicmodule",
     "description": "this is a test module",
     "autoload": {
 	"psr-4": { "Smart\\Basic\\": "src/basic"}
